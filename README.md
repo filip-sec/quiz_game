@@ -1,6 +1,6 @@
 # Python Quiz Game
 
-Welcome to the Python Quiz Game! This simple Python program allows you to test your knowledge of computer-related terms.
+Welcome to the Python Quiz Game! This simple Python program.
 
 ## Getting Started
 
